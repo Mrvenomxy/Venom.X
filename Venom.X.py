@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ahsan="ALE-"
+Venom.X-"
 imt="-M4786=="
-ak="AHSAN-"
+ak="Venom.X-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -309,7 +309,7 @@ def crack(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ VEERO ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ Venom.X ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
